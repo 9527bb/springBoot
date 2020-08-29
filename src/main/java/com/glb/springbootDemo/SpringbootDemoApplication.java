@@ -13,7 +13,7 @@ public class SpringbootDemoApplication {
 	}
 
 	public void ss(){
-		System.out.println("dddddss");
+		System.out.println("dddddss remote remote");
 	}
 
 }
