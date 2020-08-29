@@ -37,7 +37,7 @@ public class Student implements Serializable {
     }
     
     public String test2() {
-        return ",,,,,,,,,,,,,,,,,,,,,,,,,";
+        return "kkkkkkkkkkk";
     }
     
     public String test1() {
