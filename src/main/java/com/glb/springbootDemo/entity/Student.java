@@ -36,6 +36,10 @@ public class Student implements Serializable {
         this.year = year;
     }
     
+    public String test2() {
+        return "";
+    }
+    
     public String test1() {
         System.out.println("hh");
         return "";
