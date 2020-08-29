@@ -14,6 +14,8 @@ public class SpringbootDemoApplication {
 
 	public void ss(){
 		System.out.println("dddddss remote remote");
+		System.out.println("dddddss local local");
+
 	}
 
 }

@@ -58,7 +58,10 @@ public class Student implements Serializable {
         int pp = 00;
         int bm = 80;
         test1();
-        String ss = "ssss  remote remote";
+
+        String remote = "ssss  remote remote";
+        String local = "ssss local local";
+
 
     }
 }
