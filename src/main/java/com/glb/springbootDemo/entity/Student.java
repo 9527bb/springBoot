@@ -58,6 +58,6 @@ public class Student implements Serializable {
         int pp = 00;
         int bm = 80;
         test1();
-        String ss = "kkkkkkkkkkkkkddddddddddddddddddddddddddddde22222222222222222222222222222";
+        String ss = "ssss";
     }
 }
