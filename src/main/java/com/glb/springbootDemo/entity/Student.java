@@ -38,6 +38,8 @@ public class Student implements Serializable {
     
     public String test2() {
 
+        int ad = 88;
+        int b = 99;
         System.out.println("confilct");
         System.out.println("sssssssss");
         return "kkkkkkkkkkk";
