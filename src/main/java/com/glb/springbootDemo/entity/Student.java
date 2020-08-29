@@ -37,21 +37,27 @@ public class Student implements Serializable {
     }
     
     public String test2() {
-
-        int ad = 88;
-        int b = 99;
-        System.out.println("confilct");
-        System.out.println("sssssssss");
-
-        int pp = 00;
-        int bm = 80;
-        test1();
-        String ss = "kkkkkkkkkkkkk";
+        solution1();
+        solution2();
         return "kkkkkkkkkkk";
     }
     
     public String test1() {
         System.out.println("hh");
         return "";
+    }
+
+    public void solution1() {
+        int ad = 88;
+        int b = 99;
+        System.out.println("confilct");
+        System.out.println("sssssssss");
+    }
+
+    public void solution2() {
+        int pp = 00;
+        int bm = 80;
+        test1();
+        String ss = "kkkkkkkkkkkkk";
     }
 }
