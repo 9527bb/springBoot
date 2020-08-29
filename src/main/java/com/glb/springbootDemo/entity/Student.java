@@ -44,8 +44,9 @@ public class Student implements Serializable {
         System.out.println("sssssssss");
 
         int pp = 00;
-        int bm = 91;
+        int bm = 80;
         test1();
+        String ss = "kkkkkkkkkkkkk";
         return "kkkkkkkkkkk";
     }
     
