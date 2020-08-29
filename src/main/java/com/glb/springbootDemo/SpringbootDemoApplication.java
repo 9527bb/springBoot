@@ -6,12 +6,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootDemoApplication {
 
-	public static void main(String[] b) {
-		SpringApplication.run(SpringbootDemoApplication.class, b);
+	public static void main(String[] argss) {
+		SpringApplication.run(SpringbootDemoApplication.class, argss);
+
 	}
 	
 	public void ss(){
-		System.out.println("ddddd");
+		System.out.println("dddddss");
 	}
 
 }
