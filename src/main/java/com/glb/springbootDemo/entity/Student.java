@@ -38,5 +38,6 @@ public class Student implements Serializable {
     
     public String test1() {
         System.out.println("hh");
+        return "";
     }
 }
