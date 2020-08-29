@@ -37,6 +37,7 @@ public class Student implements Serializable {
     }
     
     public String test2() {
+        System.out.println("confilct");
         return "kkkkkkkkkkk";
     }
     
